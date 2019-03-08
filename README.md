@@ -15,4 +15,4 @@ A phone application to capture head movement.
 
 Read user manuel and technical documentation for more precision.
 
-Feel free to share and modifie the code.
+Feel free to share and modify the code.
